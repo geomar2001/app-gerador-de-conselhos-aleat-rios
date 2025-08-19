@@ -1,0 +1,17 @@
+@media(max-width: 525px) {
+
+    .container .conselho {
+ width: 330px;
+ height: 320px;
+ padding: 40px;
+}
+
+    .container .conselho p {
+        font-size: 20px;
+        font-weight: 800;
+    }
+
+    .container buttom {
+        margin-top: 500px;
+    }
+}
